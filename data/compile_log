@@ -1,0 +1,42 @@
+----------
+1. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 165)
+	intent.setClass(getApplicationContext(), Home2Activity.class);
+	^^^^^^
+intent cannot be resolved
+----------
+2. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 166)
+	intent.addFlags(intent.FLAG_ACTIVITY_NO_ANIMATION);
+	^^^^^^
+intent cannot be resolved
+----------
+3. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 166)
+	intent.addFlags(intent.FLAG_ACTIVITY_NO_ANIMATION);
+	                ^^^^^^
+intent cannot be resolved to a variable
+----------
+4. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 167)
+	startActivity(intent);
+	              ^^^^^^
+intent cannot be resolved to a variable
+----------
+5. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 174)
+	intent.setClass(getApplicationContext(), HomeActivity.class);
+	^^^^^^
+intent cannot be resolved
+----------
+6. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 175)
+	intent.addFlags(intent.FLAG_ACTIVITY_NO_ANIMATION);
+	^^^^^^
+intent cannot be resolved
+----------
+7. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 175)
+	intent.addFlags(intent.FLAG_ACTIVITY_NO_ANIMATION);
+	                ^^^^^^
+intent cannot be resolved to a variable
+----------
+8. ERROR in /storage/emulated/0/.sketchware/mysc/624/app/src/main/java/com/sketchware/pro/version2/NewsActivity.java (at line 176)
+	startActivity(intent);
+	              ^^^^^^
+intent cannot be resolved to a variable
+----------
+8 problems (8 errors)
